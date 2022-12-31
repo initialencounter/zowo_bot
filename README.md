@@ -1,2 +1,12 @@
-# zowo_bot
-zowo机器人，基于Zero termux的linux系统搭建的python-nonebot机器人
+# bot1
+
+## How to start
+
+1. generate project using `nb create` .
+2. create your plugin using `nb plugin create` .
+3. writing your plugins under `src/plugins` folder.
+4. run your bot using `nb run` .
+
+## Documentation
+
+See [Docs](https://v2.nonebot.dev/)
